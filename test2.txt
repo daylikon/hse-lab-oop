@@ -1,0 +1,4 @@
+3
+Furniture 0 5 0 1 1 1 Wood
+Tech 0 0 0 1 1 1 NoName
+Furniture 1 1 1 1 1 1 DSP
